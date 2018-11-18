@@ -23,4 +23,4 @@ Add your favourite beginner tutorials/lessons here!
 
 
 ## Python
-[Bunch of really good tutorials!](https://pythonprogramming.net)_
+[Bunch of really good tutorials!](https://pythonprogramming.net)
