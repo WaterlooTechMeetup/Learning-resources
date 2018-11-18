@@ -20,3 +20,7 @@ Add your favourite beginner tutorials/lessons here!
 
 ### Rails
 [Rails for Zombies by Gregg Pollack!](https://www.codeschool.com/courses/rails-for-zombies-redux) _(Beginner)_
+
+
+## Python
+[Bunch of really good tutorials!](https://pythonprogramming.net)_
